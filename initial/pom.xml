@@ -31,7 +31,7 @@
     </dependencies>
 
     <properties>
-        <start-class>hello.Application</start-class>
+        <start-class>com.yeeuu.api.restful.Application</start-class>
     </properties>
 
     <build>
